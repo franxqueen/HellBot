@@ -17,7 +17,7 @@
 ------
 [![GitHub forks](https://img.shields.io/github/forks/The-talentedbot/talentedbot?&style=flat-square&logo=github)](https://github.com/The-talentedbot/talentedbot/fork)
 [![GitHub stars](https://img.shields.io/github/stars/The-talentedbot/talentedbot?&style=flat-square&logo=github)](https://github.com/The-talentedbot/talentedbot/stargazers)
-![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=flat-square&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/The-talentedbot/talentedbot?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
 [![GitHub license](https://img.shields.io/github/license/The-talentedbot/talentedbot?&style=flat-square&logo=github)](https://github.com/The-talentedbot/talentedbot/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
@@ -44,7 +44,7 @@
 ## Deploy To Heroku
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables)
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/the-hellbot/hellbot)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/the-talentedbot/talentedbot)
 
 ------
 ## Deploy Locally
