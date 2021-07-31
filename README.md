@@ -22,7 +22,7 @@
 [![GitHub license](https://img.shields.io/github/license/The-talentedbot/talentedbot?&style=flat-square&logo=github)](https://github.com/The-talentedbot/talentedbot/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
-![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?color=Pink&label=Language&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/The-talentedbot/talentedbot?color=Pink&label=Language&style=flat-square)
 
 ------
 ## Telegram 🏪
@@ -120,9 +120,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-<h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-HellBot">The-HellBot</a></h4>
+<h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-talentedbot">The-talentedbot</a></h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [talentedbot](https://github.com/The-talentedbot/talentedbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
